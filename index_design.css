@@ -1,0 +1,42 @@
+.search_links{
+    color:#4285F4;
+    text-align: right;
+}
+
+#advanced_search_button {
+    background-color:#4285F4;
+    color:white;
+    border-radius: 5px;
+}
+body{
+    font-family: calibri;
+}
+
+.search_input {
+    text-align: center;
+
+}
+#google_image_heading {
+    text-align: center;
+    font-size: 30px;
+}
+#google_heading_1 {
+    font-size: 48px;
+    color: blue;
+    display: inline-block;
+}
+#google_heading_2 {
+    font-size: 48px;
+    color: red;
+    display: inline-block;
+}
+#google_heading_3 {
+    font-size: 48px;
+    color: yellow;
+    display: inline-block;
+}
+#google_heading_4 {
+    font-size: 48px;
+    color: green;
+    display: inline-block;
+}
